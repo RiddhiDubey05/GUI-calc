@@ -1,9 +1,9 @@
-﻿# GUI-CALCULATOR
+﻿ GUI-CALCULATOR
 A basic graphical calculator built using Python's Tkinter library. Supports fundamental arithmetic operations.
- #Functionalities
+ Functionalities
 - Addition, Subtraction, Multiplication, Division
 - Clear, Backspace, and Result buttons
 
-  #Toolset
+  Toolset
 - Python
 - Tkinter (GUI framework)
